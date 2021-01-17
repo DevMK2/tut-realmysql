@@ -1,4 +1,5 @@
 # Real MySQL
+![rms](https://user-images.githubusercontent.com/38971938/104109550-6db49500-5312-11eb-88be-dda2c21f983d.jpg)
 
 ## 학습 계획
 - 전체 챕터를 필요도를 기준으로 세 단계로 나눠서 순서대로 학습합니다.
