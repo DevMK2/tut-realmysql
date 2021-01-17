@@ -1,6 +1,8 @@
 show databases ;
 use tutorial;
+
 show tables;
+
 
 CREATE TABLE `departments` (
     `dept_no` CHAR(4) NOT NULL ,
